@@ -2,7 +2,6 @@
   "name": "@jtomambid/ckeditor5-custombuild-classic",
   "version": "27.1.0",
   "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
-  "private": false,
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
